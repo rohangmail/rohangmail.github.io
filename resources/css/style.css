@@ -1,0 +1,41 @@
+body{
+    box-sizing: 0;
+    background-color: rgb(39, 36, 36);
+    text-align: center;
+}
+.box{
+    background-color: black;
+}
+h1{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+h4{
+    color: aquamarine;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+    text-align: center;
+}
+h3{
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+}
+p{
+    color: gray;
+    font-size: 42px;
+    text-align: right;
+}
+
